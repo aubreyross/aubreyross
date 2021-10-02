@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aubreyross
 - 👀 Tech by day. Artist by night.  
-- 🌱 I’m currently learning full stack web development through SMU's coding bootcamp.
-- 💞️ I’m looking to collaborate on all of the things.
+- 🌱 Currently pursuing full stack web development at SMU.
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
