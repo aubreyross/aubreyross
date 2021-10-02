@@ -3,8 +3,9 @@
 - 🌱 Currently pursuing full stack web development at SMU.
 - 💞️ 
 - 📫 How to reach me ...
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aubrey-ross" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/aubrey-ross?trk=profile-badge">Aubrey Ross</a></div>
+  * LinkedIn: www.linkedin.com/in/aubrey-ross
+  * Email: aubrey.ross04@gmail.com
+  * Phone: 918.520.4324
               
 
 <!---
