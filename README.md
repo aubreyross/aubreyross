@@ -3,8 +3,7 @@
 - 🌱 Currently pursuing full stack web development at SMU.
 - 💞️ Passion for all things creative 
 - 📫 How to reach me ...
-  * LinkedIn: www.linkedin.com/in/aubrey-ross
-  * Email: aubrey.ross04@gmail.com
+
               
 
 <!---
