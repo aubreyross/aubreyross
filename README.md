@@ -2,7 +2,9 @@
 - 👀 Tech by day. Artist by night.  
 - 🌱 Currently pursuing full stack web development at SMU.
 - 💞️ Passion for all things creative 
-- 📫 How to reach me ...
+- 📫 Email: aubrey.ross04@gmail.com
+
+- Portfolio: https://aubreyross.github.io/Updated-Portfolio/
 
               
 
