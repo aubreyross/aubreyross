@@ -4,7 +4,6 @@
 - 💞️ Passion for all things creative 
 - 📫 Email: aubrey.ross04@gmail.com
 
-- Portfolio: https://aubreyross.github.io/Updated-Portfolio/
 
               
 
