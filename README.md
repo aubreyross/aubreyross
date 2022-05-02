@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aubreyross
-- 👀 Tech by day. Artist by night.  
-- 🌱 Currently pursuing full stack web development at SMU.
+- 👀 Full-Stack Web Developer working primarily in JavaScript  
 - 💞️ Passion for all things creative 
 - 📫 Email: aubrey.ross04@gmail.com
 
