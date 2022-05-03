@@ -1,14 +1,12 @@
 
-Hi there, I'm Aubrey! 👋 
-============================
-
+### Hi there! I'm Aubrey. 👋 
 Full-Stack Developer working primarily in Javascript
-----------------------------------------------------
 
-*   🌍  Dallas, TX
-*   🖥️  [Portfolio](http://github.com/aubreyross/Polished-Portfolio)
-*   ✉️   [aubrey.ross04@gmail.com](mailto:aubrey.ross04@gmail.com)
+------------------------------------------------------
 
+
+*   🖥️  If you'd like to check out my [Portfolio](http://github.com/aubreyross/Polished-Portfolio)
+*   ✉️   or drop a line to [aubrey.ross04@gmail.com](mailto:aubrey.ross04@gmail.com)
 
 
 ### Skills
@@ -31,6 +29,7 @@ Full-Stack Developer working primarily in Javascript
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/aubrey-ross/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 
 ### Stats
 
