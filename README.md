@@ -1,14 +1,14 @@
 
-Hi there! 👋  I'm Aubrey 
+Hi there, I'm Aubrey! 👋 
 ============================
 
-Full-Stack Developer
+Full-Stack Developer working primarily in Javascript
 ----------------------------------------------------
 
-*   🌍  Based in Dallas
+*   🌍  Dallas, TX
 *   🖥️  [Portfolio](http://github.com/aubreyross/Polished-Portfolio)
 *   ✉️   [aubrey.ross04@gmail.com](mailto:aubrey.ross04@gmail.com)
-*   🧠  Currently studying Python + Amazon Web Services
+
 
 
 ### Skills
