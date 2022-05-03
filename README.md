@@ -6,8 +6,8 @@ Full-Stack Developer
 ----------------------------------------------------
 
 *   🌍  Based in Dallas
-*   🖥️  You can browse my portfolio & latest works [here](http://github.com/aubreyross/Polished-Portfolio)
-*   ✉️   If you'd like to get in touch [aubrey.ross04@gmail.com](mailto:aubrey.ross04@gmail.com)
+*   🖥️  [Portfolio](http://github.com/aubreyross/Polished-Portfolio)
+*   ✉️   [aubrey.ross04@gmail.com](mailto:aubrey.ross04@gmail.com)
 *   🧠  Currently studying Python + Amazon Web Services
 
 
