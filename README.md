@@ -5,7 +5,7 @@ Full-Stack Developer working primarily in Javascript
 ------------------------------------------------------
 
 
-*   🖥️  If you'd like to check out my [Portfolio](http://github.com/aubreyross/Polished-Portfolio)
+*   🖥️  If you'd like to check out my [Portfolio](https://aubreyross.github.io/Portfolio/)
 *   ✉️   or drop a line to [aubrey.ross04@gmail.com](mailto:aubrey.ross04@gmail.com)
 
 
