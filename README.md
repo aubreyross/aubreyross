@@ -1,6 +1,6 @@
 
 ### Hi there! I'm Aubrey. 👋 
-Full-Stack Developer working primarily in Javascript
+Full-Stack Software Engineer
 
 ------------------------------------------------------
 
