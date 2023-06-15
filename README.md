@@ -29,9 +29,3 @@ Full-Stack Software Engineer
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/aubrey-ross/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-### Stats
-
-<a href="http://www.github.com/aubreyross"><img src="https://github-readme-stats.vercel.app/api?username=aubreyross&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="aubreyross's GitHub stats" /></a>
-
